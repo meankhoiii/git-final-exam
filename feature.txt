@@ -1,0 +1,6 @@
+Tính năng mới: Hệ thống Nhắc nhở Thông minh
+Tính năng này cho phép người dùng tạo lịch nhắc nhở các công việc quan trọng trực tiếp trong ứng dụng.
+Người dùng có thể đặt thời gian, mức độ ưu tiên và nhận thông báo tự động trên nhiều thiết bị.
+Hệ thống sử dụng AI để gợi ý khung giờ phù hợp dựa trên thói quen học tập và làm việc của người dùng.
+Ngoài ra, nhắc nhở có thể được đồng bộ với Google Calendar và gửi email thông báo.
+Mục tiêu của tính năng là giúp người dùng quản lý thời gian hiệu quả, hạn chế việc quên các nhiệm vụ quan trọng.
