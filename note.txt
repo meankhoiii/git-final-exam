@@ -3,3 +3,6 @@ Git giúp quản lý phiên bản rõ ràng, dễ dàng quay lại các trạng 
 Hỗ trợ làm việc nhóm hiệu quả thông qua branch và merge, giảm xung đột và trùng lặp công việc.
 
 Cho phép theo dõi lịch sử phát triển phần mềm minh bạch, giúp học hỏi và cải thiện quy trình làm việc.
+Git stash cho phép lưu tạm thời thay đổi chưa sẵn sàng commit, rất tiện khi cần chuyển nhánh gấp.
+
+Git tag giúp đánh dấu các mốc quan trọng (như phiên bản phát hành) để dễ dàng quản lý.
