@@ -1,0 +1,16 @@
+Giới thiệu cá nhân:
+Tôi tên là Phan Minh Khôi, hiện đang là sinh viên công nghệ thông tin.
+Tôi yêu thích việc học hỏi các công nghệ mới và áp dụng vào các dự án thực tế.
+Tôi luôn cố gắng rèn luyện kỹ năng lập trình và làm việc nhóm để phát triển bản thân.
+Mục tiêu của tôi là trở thành một lập trình viên chuyên nghiệp và có thể đóng góp cho cộng đồng.
+Tôi tin rằng sự kiên nhẫn và tinh thần học hỏi sẽ giúp tôi tiến xa hơn trong tương lai.
+
+Sở thích:
+1. Đọc sách về công nghệ và phát triển bản thân.
+2. Chơi thể thao để rèn luyện sức khỏe.
+3. Du lịch khám phá những vùng đất mới.
+
+Kỹ năng:
+1. Lập trình với C, Python, và C#.
+2. Quản lý phiên bản với Git và GitHub.
+3. Thiết kế và triển khai cơ sở dữ liệu MySQL/MariaDB.
