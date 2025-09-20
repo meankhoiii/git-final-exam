@@ -23,3 +23,7 @@ Mỗi ngày dành ít nhất 2–3 giờ tập trung học tập, tránh sao nh�
 Ghi chép đầy đủ nội dung học được vào file note cá nhân để tiện ôn tập sau này.
 
 Cuối tuần tự đánh giá mức độ hoàn thành mục tiêu, đặt kế hoạch mới cho tuần kế tiếp.
+ Luyện tập giải thuật trên LeetCode hoặc HackerRank mỗi ngày.  
+Dành ít nhất 30 phút đọc blog hoặc tài liệu kỹ thuật mới.  
+ Viết nhật ký học tập để tự đánh giá tiến độ.  
+ Chuẩn bị đề cương kiến thức cho tuần tiếp theo.  
