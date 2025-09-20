@@ -1,3 +1,5 @@
 Đây là file online được tạo trực tiếp trên GitHub.  
 Nội dung minh họa cho Git Final Exam.  
 File này sẽ được đồng bộ về local bằng git pull.  
+Dòng bổ sung (local) 1  
+Dòng bổ sung (local) 2  
