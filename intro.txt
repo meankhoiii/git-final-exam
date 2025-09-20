@@ -14,3 +14,9 @@ Kỹ năng:
 1. Lập trình với C, Python, và C#.
 2. Quản lý phiên bản với Git và GitHub.
 3. Thiết kế và triển khai cơ sở dữ liệu MySQL/MariaDB.
+Kế hoạch học tập:
+Trong thời gian tới, tôi sẽ tập trung củng cố kiến thức nền tảng về lập trình và giải thuật.
+Tôi sẽ xây dựng các dự án nhỏ để áp dụng kiến thức đã học vào thực tế.
+Tôi dự định nghiên cứu thêm về trí tuệ nhân tạo và học máy để bắt kịp xu hướng công nghệ.
+Tôi sẽ cải thiện khả năng tiếng Anh chuyên ngành để dễ dàng tiếp cận tài liệu quốc tế.
+Ngoài ra, tôi sẽ tham gia các hoạt động nhóm để rèn luyện kỹ năng giao tiếp và làm việc nhóm.
